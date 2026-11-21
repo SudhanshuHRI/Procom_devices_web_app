@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Procom Devices Web",
+    "slug": "procom-devices-web",
+    "platforms": [
+      "web"
+    ],
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
